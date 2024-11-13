@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Southsong Residence",
+    "price": "57,999",
+    "detail": "East Avenue, Quezon City 1100, Metro Manila",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Asatti Garden City",
+    "price": "71,999",
+    "detail": "Old Manila South Rd, Lucena 4301, Calabarzon",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Summergrove Residence",
+    "price": "82,999",
+    "detail": "506 Don Juico Ave., Malabanias Rd., Clarkview, Angeles City, 2009, Pampanga",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Southsong Residence",
+    "price": "57,999",
+    "detail": "East Avenue, Quezon City 1100, Metro Manila",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Asatti Garden City",
+    "price": "71,999",
+    "detail": "Old Manila South Rd, Lucena 4301, Calabarzon",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Summergrove Residence",
+    "price": "82,999",
+    "detail": "506 Don Juico Ave., Malabanias Rd., Clarkview, Angeles City, 2009, Pampanga",
+    "image": "./r3.png"
+  }
+]
